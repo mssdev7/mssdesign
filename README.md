@@ -1,4 +1,4 @@
-<h2><strong>Olá! Tudo Bem?<strong> 👋</h2>
+<h2><strong>Olá! Tudo Bem?<strong> 😉</h2>
 <h4>
     Me chamo Matheus Soares, estou me formando em Administração na Universidade de Brasília e sou discente de Análise e Desenvolvimento de Sistemas na Católica. Atualmente, pretendo iniciar minha carreira na área de desenvolvimento de software com foco em Front-end. Por favor, dê uma olhada no meus projetos. Vamos trabalhar juntos?
 </h4>
