@@ -8,7 +8,7 @@
     <li>🔭 Foco em desenvolvimento front-end</li>
     <li>🌱 Estudando React</li>
     <li>📫 E-mail: matheussilvasoares43@gmail.com</li>
-    <li>💼 Linkedin: <a target="_blank">https://www.linkedin.com/in/matheus-soares-mssdesign/<a/></li>
+    <li>💼 Linkedin: https://www.linkedin.com/in/matheus-soares-mssdesign</li>
   </ul>
 </div>
 
