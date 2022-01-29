@@ -9,7 +9,7 @@
     <li>🌱 Estudando React</li>
     <li>📫 E-mail: matheussilvasoares43@gmail.com</li>
     <li>💼 Linkedin: https://www.linkedin.com/in/matheus-soares-mssdesign</li>
-    <li>🔥 Portifolio: https://mssdesign.online/</li>
+    <li>🔥 Veja o meu portifolio: https://mssdesign.online/</li>
   </ul>
 </div>
 
