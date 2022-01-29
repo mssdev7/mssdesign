@@ -1,6 +1,6 @@
 <h2><strong>Olá! Tudo Bem?<strong> 😉</h2>
 <h4>
-    Me chamo Matheus Soares, estou me formando em Administração na Universidade de Brasília, mas também sou discente de Análise e Desenvolvimento de Sistemas na Católica. Pretendo iniciar minha carreira na área de desenvolvimento de software com foco em Front-end. Por favor, dê uma olhada no meus projetos. Vamos trabalhar juntos?
+    Me chamo Matheus Soares, estou me formando em Administração na Universidade de Brasília, mas também sou discente de Análise e Desenvolvimento de Sistemas na Católica. Pretendo iniciar minha carreira na área de desenvolvimento de software com foco em Front-end. Dê uma olhada no meus projetos. ;)
 </h4>
 
 <div>
