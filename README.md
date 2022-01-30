@@ -1,8 +1,6 @@
 <h2><strong>Olá! Tudo Bem?<strong> 😉</h2>
 <h4>
-    Olá! Me chamo Matheus Soares, estou me formando em Administração na Universidade de Brasília, mas também sou discente de Análise e Desenvolvimento de Sistemas na Católica. Me considero um profissional determinado, com boa dicção, bastante organizado, que gosta de trabalhar em equipe e que busca continuar aprendendo e crescendo profissionalmente.
-
-Tenho experiência na área administrativa e em suporte técnico. Pretendo iniciar minha carreira na área de desenvolvimento de software com foco em Front-end. Possuo conhecimentos em HTML, CSS, JavaScript, Angular e ReactJS.
+    Olá! Me chamo Matheus Soares, estou me formando em Administração na Universidade de Brasília, mas também sou discente de Análise e Desenvolvimento de Sistemas na Católica. Me considero um profissional determinado, com boa dicção, bastante organizado, que gosta de trabalhar em equipe e que busca continuar aprendendo e crescendo profissionalmente. Tenho experiência na área administrativa e em suporte técnico. Pretendo iniciar minha carreira na área de desenvolvimento de software com foco em Front-end. Possuo conhecimentos em HTML, CSS, JavaScript, Angular e ReactJS.
 </h4>
 
 <div>
