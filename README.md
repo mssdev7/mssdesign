@@ -1,6 +1,6 @@
 <h2><strong>Olá! Tudo Bem?<strong> 😉</h2>
 <h4>
-    Me chamo Matheus Soares, bem vindo(a) ao meu repositório no github. Caso você esteja interessado(a) em me conhecer melhor visite o meu perfil no Linkedin!
+    Me chamo Matheus Soares, bem vindo(a) ao meu repositório no github. Caso você esteja interessado(a) em me conhecer melhor visite também o meu perfil no Linkedin!
 </h4>
 
 <div>
