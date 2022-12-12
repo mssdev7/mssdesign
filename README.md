@@ -8,7 +8,6 @@
     <li>🌱 Estudando C#</li>
     <li>📫 E-mail: matheussilvasoares43@gmail.com</li>
     <li>💼 Linkedin: https://www.linkedin.com/in/mssdesign</li>
-    <li>🔥 Veja o meu portfólio: https://mssdesign.online/</li>
   </ul>
 </div>
 
